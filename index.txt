@@ -1,2 +1,5 @@
 del all
 and add some
+
+
+add git hub adress
